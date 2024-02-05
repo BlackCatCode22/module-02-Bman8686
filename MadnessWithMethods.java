@@ -14,24 +14,7 @@ public class MadnessWithMethods{
        }
    }}
 
-   public class Main {  //File in Main
-
-       public static void compareTwoInts() { //Name of Method
-
-
-           public class Main { //File in Main
-               public static void getAnintFromTheUser() {   //Name of Method
-
-                   System.out.println("My Integer");  //Output when method is called
-
-
-               }
-               public static void main(String[] args) {
-                   getAnintFromTheUser(); //This should output "My Integer," but I'm missing something
-
-
-               }
-           }}
+   
        import java.util.Scanner;
 
        public class compareTwoInt {
